@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.exe.config
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.exe
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.pdb
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\Interop.MediaPlayer.dll
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\Interop.WMPLib.dll
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.Form1.resources
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.Properties.Resources.resources
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.exe
+C:\Users\user\source\repos\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.pdb
