@@ -1,5 +1,11 @@
 # SpaceShooter
-SpaceShooter in C#
+Simple Space Shooter game in C#
 
-<b><center><font size="8">Game preview:</font></center></b><br><br>
-<a href="https://files.fm/u/wkusqmqx#/view/space.png"><img src="https://files.fm/thumb_show.php?i=qmzq9f6v"></a>
+## Run
+
+To run game just click SpaceShooter.exe file
+
+## Preview
+
+![spaceshooter](https://user-images.githubusercontent.com/56698760/119241763-25777000-bb59-11eb-92ea-6526c0059ca7.png)
+
